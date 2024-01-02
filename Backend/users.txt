@@ -1,0 +1,41 @@
+{
+    "name" : "zain",
+    "email" : "zain1@gmail.com",
+    "password" : "zain1"
+}
+
+
+  {
+        "_id": "6556bb9fbcd5676ef869a171",
+        "name": "zain",
+        "email": "zain1@gmail.com",
+        "password": "$2a$10$Y0Y1qnWRVgE29uUknF55R.Z.o3ObqaLVnWOeBVSyyVr5uLqsYcP1S",
+        "createdAt": "2023-11-17T01:02:23.315Z",
+        "updatedAt": "2023-11-17T01:02:23.315Z",
+        "__v": 0
+    },
+
+
+{
+        "_id": "655815a27813a531cb5eca4f",
+        "name": "Zain",
+        "email": "zain2@gmail.com",
+        "password": "$2a$10$gz0kQEHikuBrfFIa5e1uNeA80fHATOr2ruGpkYJ1JCn9CZTL3Ng.y",
+        "createdAt": "2023-11-18T01:38:42.291Z",
+        "updatedAt": "2023-11-18T01:38:42.291Z",
+        "__v": 0
+    }
+
+    {
+    "_id": "655e8bd368b9a93b08369df7",
+    "name": "zain3",
+    "email": "zain3@gmail.com",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTVlOGJkMzY4YjlhOTNiMDgzNjlkZjciLCJpYXQiOjE3MDA2OTQ5OTYsImV4cCI6MTcwMTEyNjk5Nn0.SJF3MWH69tXqbkvJujKKWmJg3AbUTmn7HjU-v8IeH0Q"
+}
+
+{
+    "_id": "655e8be668b9a93b08369dfa",
+    "name": "zain4",
+    "email": "zain4@gmail.com",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTVlOGJlNjY4YjlhOTNiMDgzNjlkZmEiLCJpYXQiOjE3MDA2OTUwMTUsImV4cCI6MTcwMTEyNzAxNX0.dpEfE4C04QGxCtgYk149FQVH2HkTBqkrTmDaZXo-a6M"
+}

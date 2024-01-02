@@ -1,0 +1,7 @@
+{
+    "chatId": "655c000abb7a2cd58186f889",
+    "senderId": "6556bb9fbcd5676ef869a171",
+    "text": "Text Try 1",
+    "_id": "655d42e992243affda6600b6",
+    "__v": 0
+}
